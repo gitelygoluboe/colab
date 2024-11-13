@@ -19,3 +19,13 @@ function login(log,av,lev,sot) {
     sessionStorage.setItem('proffileData',JSON.stringify(data));
     window.location.href = 'akk.php';
 }
+//100101010101010011001001  
+//101001001100010100010101  
+//010110100001011010010110  
+//        01010101          
+//        01001010          
+//        00110100
+//        01010111
+//        01011001
+//        10011010
+//        00010101
